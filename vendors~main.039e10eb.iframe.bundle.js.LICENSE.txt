@@ -67,6 +67,12 @@ PERFORMANCE OF THIS SOFTWARE.
 
 /*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
+/**
+ * @license qrcode.react
+ * Copyright (c) Paul O'Shannessy
+ * SPDX-License-Identifier: ISC
+ */
+
 /** @license React v0.20.2
  * scheduler.production.min.js
  *
